@@ -38,5 +38,6 @@
 
 ### 宋耀坤(software engineer)
 + 熟练撑握git用法
++2019年工作计划
 
 
